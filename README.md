@@ -6,13 +6,15 @@ Welcome to my collection of Power BI dashboards! This repository showcases vario
 
 ## Contents
 
-1. [Customer Product Sales Analysis Dashboard](#customer-product-sales-analysis-dashboard)
-2. [Coca Cola Sales Dashboard Report](#coca-cola-sales-dashboard-report)
-3. [E-Commerce Sales Dashboards](#e-commerce-sales-dashboards)
-4. [Reddit Stock Price Analysis Dashboard](#reddit-stock-price-analysis-dashboard)
-5. [Sales Data Dashboard](#sales-data-dashboard)
-6. [SN Corp Europe Business Sales Analysis](#sn-corp-europe-business-sales-analysis)
-7. [Supermarket Sales Dashboard](#supermarket-sales-dashboard)
+1. Customer Product Sales Analysis Dashboard
+2. Coca Cola Sales Dashboard Report
+3. E-Commerce Sales Dashboards
+4. Reddit Stock Price Analysis Dashboard
+5. Sales Data Dashboard
+6. SN Corp Europe Business Sales Analysis
+7. Supermarket Sales Dashboard
+8. Food Nutrients Analysis
+9. Future Tweet Sentiment Analysis
 
 ## Contact
 Feel free to reach out if you have any questions or if you'd like to collaborate!
